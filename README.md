@@ -12,6 +12,7 @@
 
 <p align="center">
   <img align="center" src="/.github/imgs/home.png" alt="Twitter Clone" width="750" border="0">
+  <br /><br />
   <img align="center" src="/.github/imgs/details.png" alt="Twitter Clone" width="750" border="0">
 </p>
 
