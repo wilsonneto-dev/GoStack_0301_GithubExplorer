@@ -6,7 +6,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/wilsonneto-dev/GoStack_0301_GithubExplorer?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/wilsonneto-dev/GoStack_0301_GithubExplorer?style=flat-square)
 
-> A simple github repos explorer
+> A simple github repos explorer <br />
+> See the project online in: (https://github-explorer-wilsonnetodev.netlify.app/)[https://github-explorer-wilsonnetodev.netlify.app/] 
 
 `🚀 GoStack - Level 03:01: A github explorer to list repositories and issues.`
 
